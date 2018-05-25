@@ -3,7 +3,7 @@ class Student():
         self.surname = surname
         self.firstname = firstname
         self.numbers = numbers
-        self.course = courses
+        self.course = course
 
     def show_studentdetails(self):
         print("\nList of student information")
